@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas8</string>
+    <array name="tabs">
+        <item>Login</item>
+        <item>Register</item>
+    </array>
+</resources>
