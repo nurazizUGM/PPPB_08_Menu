@@ -4,4 +4,4 @@ ActionBar & ViewPager
 
 # APK
 
-[Release](https://github.com/nurazizUGM/PPPB_08_Menui/releases)
+[Release](https://github.com/nurazizUGM/PPPB_08_Menu/releases)
