@@ -55,6 +55,7 @@
         app:layout_constraintTop_toBottomOf="@id/et_email" />
 
     <Button
+        android:id="@+id/btn_login"
         android:layout_width="0dp"
         android:layout_height="40dp"
         android:layout_marginTop="16dp"
@@ -62,9 +63,8 @@
         android:paddingStart="80dp"
         android:paddingEnd="80dp"
         android:stateListAnimator="@null"
-        android:text="Register"
+        android:text="Login"
         app:backgroundTint="@null"
-        android:id="@+id/btn_login"
         app:layout_constraintEnd_toEndOf="@id/et_password"
         app:layout_constraintStart_toStartOf="@id/et_password"
         app:layout_constraintTop_toBottomOf="@id/et_password" />
